@@ -1,0 +1,437 @@
+2023-02-17 14:12:27 - root - INFO      - MoniQQCall.v4.0.code.py : 434 line - timenow
+2023-02-17 14:12:27 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:27 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000812 HTTP/1.1" 200 171
+2023-02-17 14:12:27 - root - ERROR     - MoniQQCall.v4.0.code.py : 457 line - '"陕西金叶'
+Traceback (most recent call last):
+  File "F:\FXXK\CODE\MoniQQCall.v4.3.code\MoniQQCall.v4.0.code.py", line 450, in main
+    monilist = mainsave[name]
+KeyError: '"陕西金叶'
+2023-02-17 14:12:27 - root - ERROR     - MoniQQCall.v4.0.code.py : 519 line - [Errno 2] No such file or directory: 'datag\\sz000812000.json'
+Traceback (most recent call last):
+  File "F:\FXXK\CODE\MoniQQCall.v4.3.code\MoniQQCall.v4.0.code.py", line 513, in main
+    with open('datag\\{}'.format(key)+'.json', 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'datag\\sz000812000.json'
+2023-02-17 14:12:27 - root - ERROR     - MoniQQCall.v4.0.code.py : 532 line - list index out of range
+Traceback (most recent call last):
+  File "F:\FXXK\CODE\MoniQQCall.v4.3.code\MoniQQCall.v4.0.code.py", line 528, in main
+    if ldk1[-1] != ldk1[-2]:
+IndexError: list index out of range
+2023-02-17 14:12:27 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:27 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 165
+2023-02-17 14:12:27 - root - ERROR     - MoniQQCall.v4.0.code.py : 457 line - '"古越龙山'
+Traceback (most recent call last):
+  File "F:\FXXK\CODE\MoniQQCall.v4.3.code\MoniQQCall.v4.0.code.py", line 450, in main
+    monilist = mainsave[name]
+KeyError: '"古越龙山'
+2023-02-17 14:12:27 - root - ERROR     - MoniQQCall.v4.0.code.py : 519 line - [Errno 2] No such file or directory: 'datag\\sh600059000.json'
+Traceback (most recent call last):
+  File "F:\FXXK\CODE\MoniQQCall.v4.3.code\MoniQQCall.v4.0.code.py", line 513, in main
+    with open('datag\\{}'.format(key)+'.json', 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'datag\\sh600059000.json'
+2023-02-17 14:12:27 - root - ERROR     - MoniQQCall.v4.0.code.py : 532 line - list index out of range
+Traceback (most recent call last):
+  File "F:\FXXK\CODE\MoniQQCall.v4.3.code\MoniQQCall.v4.0.code.py", line 528, in main
+    if ldk1[-1] != ldk1[-2]:
+IndexError: list index out of range
+2023-02-17 14:12:27 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:27 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz002340 HTTP/1.1" 200 167
+2023-02-17 14:12:27 - root - ERROR     - MoniQQCall.v4.0.code.py : 457 line - '"格林美'
+Traceback (most recent call last):
+  File "F:\FXXK\CODE\MoniQQCall.v4.3.code\MoniQQCall.v4.0.code.py", line 450, in main
+    monilist = mainsave[name]
+KeyError: '"格林美'
+2023-02-17 14:12:27 - root - ERROR     - MoniQQCall.v4.0.code.py : 519 line - [Errno 2] No such file or directory: 'datag\\sz002340000.json'
+Traceback (most recent call last):
+  File "F:\FXXK\CODE\MoniQQCall.v4.3.code\MoniQQCall.v4.0.code.py", line 513, in main
+    with open('datag\\{}'.format(key)+'.json', 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'datag\\sz002340000.json'
+2023-02-17 14:12:27 - root - ERROR     - MoniQQCall.v4.0.code.py : 532 line - list index out of range
+Traceback (most recent call last):
+  File "F:\FXXK\CODE\MoniQQCall.v4.3.code\MoniQQCall.v4.0.code.py", line 528, in main
+    if ldk1[-1] != ldk1[-2]:
+IndexError: list index out of range
+2023-02-17 14:12:27 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:27 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000725 HTTP/1.1" 200 176
+2023-02-17 14:12:27 - root - ERROR     - MoniQQCall.v4.0.code.py : 457 line - '"京东方Ａ'
+Traceback (most recent call last):
+  File "F:\FXXK\CODE\MoniQQCall.v4.3.code\MoniQQCall.v4.0.code.py", line 450, in main
+    monilist = mainsave[name]
+KeyError: '"京东方Ａ'
+2023-02-17 14:12:27 - root - ERROR     - MoniQQCall.v4.0.code.py : 519 line - [Errno 2] No such file or directory: 'datag\\sz000725000.json'
+Traceback (most recent call last):
+  File "F:\FXXK\CODE\MoniQQCall.v4.3.code\MoniQQCall.v4.0.code.py", line 513, in main
+    with open('datag\\{}'.format(key)+'.json', 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'datag\\sz000725000.json'
+2023-02-17 14:12:27 - root - ERROR     - MoniQQCall.v4.0.code.py : 532 line - list index out of range
+Traceback (most recent call last):
+  File "F:\FXXK\CODE\MoniQQCall.v4.3.code\MoniQQCall.v4.0.code.py", line 528, in main
+    if ldk1[-1] != ldk1[-2]:
+IndexError: list index out of range
+2023-02-17 14:12:27 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:27 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 165
+2023-02-17 14:12:28 - root - ERROR     - MoniQQCall.v4.0.code.py : 519 line - [Errno 2] No such file or directory: 'datag\\sh600059001.json'
+Traceback (most recent call last):
+  File "F:\FXXK\CODE\MoniQQCall.v4.3.code\MoniQQCall.v4.0.code.py", line 513, in main
+    with open('datag\\{}'.format(key)+'.json', 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'datag\\sh600059001.json'
+2023-02-17 14:12:28 - root - ERROR     - MoniQQCall.v4.0.code.py : 532 line - list index out of range
+Traceback (most recent call last):
+  File "F:\FXXK\CODE\MoniQQCall.v4.3.code\MoniQQCall.v4.0.code.py", line 528, in main
+    if ldk1[-1] != ldk1[-2]:
+IndexError: list index out of range
+2023-02-17 14:12:28 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:28 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 156
+2023-02-17 14:12:28 - root - ERROR     - MoniQQCall.v4.0.code.py : 457 line - '"农心科技'
+Traceback (most recent call last):
+  File "F:\FXXK\CODE\MoniQQCall.v4.3.code\MoniQQCall.v4.0.code.py", line 450, in main
+    monilist = mainsave[name]
+KeyError: '"农心科技'
+2023-02-17 14:12:28 - root - ERROR     - MoniQQCall.v4.0.code.py : 519 line - [Errno 2] No such file or directory: 'datag\\sz001231000.json'
+Traceback (most recent call last):
+  File "F:\FXXK\CODE\MoniQQCall.v4.3.code\MoniQQCall.v4.0.code.py", line 513, in main
+    with open('datag\\{}'.format(key)+'.json', 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'datag\\sz001231000.json'
+2023-02-17 14:12:28 - root - ERROR     - MoniQQCall.v4.0.code.py : 532 line - list index out of range
+Traceback (most recent call last):
+  File "F:\FXXK\CODE\MoniQQCall.v4.3.code\MoniQQCall.v4.0.code.py", line 528, in main
+    if ldk1[-1] != ldk1[-2]:
+IndexError: list index out of range
+2023-02-17 14:12:28 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:28 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 156
+2023-02-17 14:12:28 - root - ERROR     - MoniQQCall.v4.0.code.py : 519 line - [Errno 2] No such file or directory: 'datag\\sz001231001.json'
+Traceback (most recent call last):
+  File "F:\FXXK\CODE\MoniQQCall.v4.3.code\MoniQQCall.v4.0.code.py", line 513, in main
+    with open('datag\\{}'.format(key)+'.json', 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'datag\\sz001231001.json'
+2023-02-17 14:12:28 - root - ERROR     - MoniQQCall.v4.0.code.py : 532 line - list index out of range
+Traceback (most recent call last):
+  File "F:\FXXK\CODE\MoniQQCall.v4.3.code\MoniQQCall.v4.0.code.py", line 528, in main
+    if ldk1[-1] != ldk1[-2]:
+IndexError: list index out of range
+2023-02-17 14:12:32 - root - INFO      - MoniQQCall.v4.0.code.py : 434 line - timenow
+2023-02-17 14:12:32 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:32 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000812 HTTP/1.1" 200 171
+2023-02-17 14:12:32 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:32 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 166
+2023-02-17 14:12:32 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "古越龙山0.0
+2023-02-17 14:12:32 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:32 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz002340 HTTP/1.1" 200 167
+2023-02-17 14:12:32 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:32 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000725 HTTP/1.1" 200 175
+2023-02-17 14:12:32 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:32 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 166
+2023-02-17 14:12:32 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "古越龙山0.0
+2023-02-17 14:12:32 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:32 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 157
+2023-02-17 14:12:33 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "农心科技-0.042553191489368355
+2023-02-17 14:12:33 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:33 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 157
+2023-02-17 14:12:33 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "农心科技0.0
+2023-02-17 14:12:37 - root - INFO      - MoniQQCall.v4.0.code.py : 434 line - timenow
+2023-02-17 14:12:37 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:37 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000812 HTTP/1.1" 200 171
+2023-02-17 14:12:37 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "陕西金叶0.0
+2023-02-17 14:12:37 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:37 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 164
+2023-02-17 14:12:37 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "古越龙山0.0
+2023-02-17 14:12:37 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:37 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz002340 HTTP/1.1" 200 164
+2023-02-17 14:12:37 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "格林美0.12820512820512547
+2023-02-17 14:12:37 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:37 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000725 HTTP/1.1" 200 174
+2023-02-17 14:12:37 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "京东方Ａ-0.23923444976076047
+2023-02-17 14:12:37 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:37 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 164
+2023-02-17 14:12:37 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "古越龙山0.0
+2023-02-17 14:12:37 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:37 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 157
+2023-02-17 14:12:38 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "农心科技0.0
+2023-02-17 14:12:38 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:38 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 157
+2023-02-17 14:12:38 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "农心科技0.0
+2023-02-17 14:12:42 - root - INFO      - MoniQQCall.v4.0.code.py : 434 line - timenow
+2023-02-17 14:12:42 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:42 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000812 HTTP/1.1" 200 170
+2023-02-17 14:12:42 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "陕西金叶0.0
+2023-02-17 14:12:42 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:42 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 164
+2023-02-17 14:12:42 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "古越龙山0.0
+2023-02-17 14:12:42 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:42 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz002340 HTTP/1.1" 200 166
+2023-02-17 14:12:42 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "格林美0.0
+2023-02-17 14:12:42 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:42 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000725 HTTP/1.1" 200 174
+2023-02-17 14:12:42 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "京东方Ａ0.0
+2023-02-17 14:12:42 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:42 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 164
+2023-02-17 14:12:42 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "古越龙山0.0
+2023-02-17 14:12:42 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:42 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 157
+2023-02-17 14:12:43 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "农心科技0.0
+2023-02-17 14:12:43 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:43 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 157
+2023-02-17 14:12:43 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "农心科技0.0
+2023-02-17 14:12:47 - root - INFO      - MoniQQCall.v4.0.code.py : 434 line - timenow
+2023-02-17 14:12:47 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:47 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000812 HTTP/1.1" 200 171
+2023-02-17 14:12:47 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "陕西金叶0.0
+2023-02-17 14:12:47 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:47 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 165
+2023-02-17 14:12:47 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "古越龙山0.09165902841429685
+2023-02-17 14:12:47 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:47 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz002340 HTTP/1.1" 200 167
+2023-02-17 14:12:47 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "格林美-0.12820512820512547
+2023-02-17 14:12:47 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:47 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000725 HTTP/1.1" 200 177
+2023-02-17 14:12:47 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "京东方Ａ0.0
+2023-02-17 14:12:47 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:47 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 166
+2023-02-17 14:12:47 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "古越龙山0.0
+2023-02-17 14:12:47 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:47 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 157
+2023-02-17 14:12:48 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "农心科技0.0
+2023-02-17 14:12:48 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:48 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 157
+2023-02-17 14:12:48 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "农心科技0.0
+2023-02-17 14:12:52 - root - INFO      - MoniQQCall.v4.0.code.py : 434 line - timenow
+2023-02-17 14:12:52 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:52 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000812 HTTP/1.1" 200 173
+2023-02-17 14:12:52 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "陕西金叶-0.15455950540957938
+2023-02-17 14:12:52 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:52 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 166
+2023-02-17 14:12:52 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "古越龙山-0.09165902841429685
+2023-02-17 14:12:52 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:52 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz002340 HTTP/1.1" 200 165
+2023-02-17 14:12:52 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "格林美0.0
+2023-02-17 14:12:52 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:52 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000725 HTTP/1.1" 200 175
+2023-02-17 14:12:52 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "京东方Ａ0.0
+2023-02-17 14:12:52 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:52 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 166
+2023-02-17 14:12:52 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "古越龙山0.0
+2023-02-17 14:12:52 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:52 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 157
+2023-02-17 14:12:53 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "农心科技0.0
+2023-02-17 14:12:53 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:53 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 157
+2023-02-17 14:12:53 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "农心科技0.0
+2023-02-17 14:12:57 - root - INFO      - MoniQQCall.v4.0.code.py : 434 line - timenow
+2023-02-17 14:12:57 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:57 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000812 HTTP/1.1" 200 170
+2023-02-17 14:12:57 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "陕西金叶0.15455950540957938
+2023-02-17 14:12:57 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:57 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 165
+2023-02-17 14:12:57 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "古越龙山0.0
+2023-02-17 14:12:57 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:57 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz002340 HTTP/1.1" 200 162
+2023-02-17 14:12:57 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "格林美0.12820512820512547
+2023-02-17 14:12:57 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:57 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000725 HTTP/1.1" 200 176
+2023-02-17 14:12:57 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "京东方Ａ0.0
+2023-02-17 14:12:57 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:57 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 165
+2023-02-17 14:12:57 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "古越龙山0.0
+2023-02-17 14:12:57 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:57 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 157
+2023-02-17 14:12:58 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "农心科技0.0
+2023-02-17 14:12:58 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:12:58 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 157
+2023-02-17 14:12:58 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "农心科技0.0
+2023-02-17 14:13:02 - root - INFO      - MoniQQCall.v4.0.code.py : 434 line - timenow
+2023-02-17 14:13:02 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:02 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000812 HTTP/1.1" 200 170
+2023-02-17 14:13:02 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "陕西金叶0.0
+2023-02-17 14:13:02 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:02 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 167
+2023-02-17 14:13:02 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "古越龙山0.0
+2023-02-17 14:13:02 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:02 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz002340 HTTP/1.1" 200 165
+2023-02-17 14:13:02 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "格林美0.0
+2023-02-17 14:13:02 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:02 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000725 HTTP/1.1" 200 176
+2023-02-17 14:13:02 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "京东方Ａ0.0
+2023-02-17 14:13:02 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:02 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 167
+2023-02-17 14:13:02 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "古越龙山0.0
+2023-02-17 14:13:02 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:02 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 157
+2023-02-17 14:13:03 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "农心科技0.0
+2023-02-17 14:13:03 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:03 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 157
+2023-02-17 14:13:03 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "农心科技0.0
+2023-02-17 14:13:07 - root - INFO      - MoniQQCall.v4.0.code.py : 434 line - timenow
+2023-02-17 14:13:07 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:07 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000812 HTTP/1.1" 200 172
+2023-02-17 14:13:07 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "陕西金叶0.0
+2023-02-17 14:13:07 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:07 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 164
+2023-02-17 14:13:07 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "古越龙山-0.09165902841429685
+2023-02-17 14:13:07 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:07 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz002340 HTTP/1.1" 200 166
+2023-02-17 14:13:07 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "格林美0.0
+2023-02-17 14:13:07 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:07 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000725 HTTP/1.1" 200 177
+2023-02-17 14:13:07 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "京东方Ａ0.0
+2023-02-17 14:13:07 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:07 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 164
+2023-02-17 14:13:07 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "古越龙山0.0
+2023-02-17 14:13:07 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:07 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 158
+2023-02-17 14:13:08 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "农心科技0.0
+2023-02-17 14:13:08 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:08 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 158
+2023-02-17 14:13:08 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "农心科技0.0
+2023-02-17 14:13:10 - root - INFO      - MoniQQCall.v4.0.code.py : 434 line - timenow
+2023-02-17 14:13:10 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:10 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000812 HTTP/1.1" 200 171
+2023-02-17 14:13:10 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "陕西金叶0.0
+2023-02-17 14:13:10 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:10 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 165
+2023-02-17 14:13:11 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "古越龙山0.09165902841429685
+2023-02-17 14:13:11 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:11 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz002340 HTTP/1.1" 200 166
+2023-02-17 14:13:11 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "格林美0.0
+2023-02-17 14:13:11 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:11 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000725 HTTP/1.1" 200 176
+2023-02-17 14:13:11 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "京东方Ａ0.23923444976076047
+2023-02-17 14:13:11 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:11 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 165
+2023-02-17 14:13:11 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "古越龙山0.0
+2023-02-17 14:13:11 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:11 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 158
+2023-02-17 14:13:11 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "农心科技0.0
+2023-02-17 14:13:11 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:11 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 158
+2023-02-17 14:13:11 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "农心科技0.0
+2023-02-17 14:13:12 - root - INFO      - MoniQQCall.v4.0.code.py : 434 line - timenow
+2023-02-17 14:13:12 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:12 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000812 HTTP/1.1" 200 171
+2023-02-17 14:13:12 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "陕西金叶0.0
+2023-02-17 14:13:12 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:12 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 163
+2023-02-17 14:13:13 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "古越龙山-0.09165902841429685
+2023-02-17 14:13:13 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:13 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz002340 HTTP/1.1" 200 166
+2023-02-17 14:13:13 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "格林美0.0
+2023-02-17 14:13:13 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:13 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000725 HTTP/1.1" 200 176
+2023-02-17 14:13:13 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "京东方Ａ0.0
+2023-02-17 14:13:13 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:13 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 163
+2023-02-17 14:13:13 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "古越龙山0.0
+2023-02-17 14:13:13 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:13 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 158
+2023-02-17 14:13:13 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "农心科技0.0
+2023-02-17 14:13:13 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:13 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 158
+2023-02-17 14:13:13 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "农心科技0.0
+2023-02-17 14:13:14 - root - INFO      - MoniQQCall.v4.0.code.py : 434 line - timenow
+2023-02-17 14:13:14 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:14 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000812 HTTP/1.1" 200 172
+2023-02-17 14:13:14 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "陕西金叶0.0
+2023-02-17 14:13:14 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:14 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 167
+2023-02-17 14:13:15 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "古越龙山0.0
+2023-02-17 14:13:15 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:15 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz002340 HTTP/1.1" 200 165
+2023-02-17 14:13:15 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "格林美0.0
+2023-02-17 14:13:15 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:15 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000725 HTTP/1.1" 200 176
+2023-02-17 14:13:15 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "京东方Ａ-0.23923444976076047
+2023-02-17 14:13:15 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:15 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 167
+2023-02-17 14:13:15 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "古越龙山0.0
+2023-02-17 14:13:15 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:15 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 158
+2023-02-17 14:13:15 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "农心科技-0.042553191489353236
+2023-02-17 14:13:15 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:15 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 158
+2023-02-17 14:13:15 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "农心科技0.0
+2023-02-17 14:13:17 - root - INFO      - MoniQQCall.v4.0.code.py : 434 line - timenow
+2023-02-17 14:13:17 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:17 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000812 HTTP/1.1" 200 172
+2023-02-17 14:13:17 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "陕西金叶0.0
+2023-02-17 14:13:17 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:17 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 167
+2023-02-17 14:13:17 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "古越龙山0.0
+2023-02-17 14:13:17 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:17 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz002340 HTTP/1.1" 200 164
+2023-02-17 14:13:17 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "格林美0.0
+2023-02-17 14:13:17 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:17 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000725 HTTP/1.1" 200 175
+2023-02-17 14:13:17 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "京东方Ａ0.23923444976076047
+2023-02-17 14:13:17 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:17 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 166
+2023-02-17 14:13:17 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "古越龙山0.09165902841429685
+2023-02-17 14:13:17 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:17 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 158
+2023-02-17 14:13:18 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "农心科技0.0
+2023-02-17 14:13:18 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:18 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 158
+2023-02-17 14:13:18 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "农心科技0.0
+2023-02-17 14:13:22 - root - INFO      - MoniQQCall.v4.0.code.py : 434 line - timenow
+2023-02-17 14:13:22 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:22 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000812 HTTP/1.1" 200 173
+2023-02-17 14:13:22 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "陕西金叶0.0
+2023-02-17 14:13:22 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:22 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 166
+2023-02-17 14:13:22 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "古越龙山-0.09165902841429685
+2023-02-17 14:13:22 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:22 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz002340 HTTP/1.1" 200 165
+2023-02-17 14:13:22 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "格林美0.0
+2023-02-17 14:13:22 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:22 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000725 HTTP/1.1" 200 177
+2023-02-17 14:13:22 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "京东方Ａ-0.23923444976076047
+2023-02-17 14:13:22 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:22 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 166
+2023-02-17 14:13:22 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "古越龙山0.0
+2023-02-17 14:13:22 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:22 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 158
+2023-02-17 14:13:23 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "农心科技0.0
+2023-02-17 14:13:23 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:23 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 158
+2023-02-17 14:13:23 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "农心科技0.0
+2023-02-17 14:13:27 - root - INFO      - MoniQQCall.v4.0.code.py : 434 line - timenow
+2023-02-17 14:13:27 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:27 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000812 HTTP/1.1" 200 171
+2023-02-17 14:13:27 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "陕西金叶0.0
+2023-02-17 14:13:27 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:27 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 164
+2023-02-17 14:13:27 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "古越龙山0.0
+2023-02-17 14:13:27 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:27 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz002340 HTTP/1.1" 200 166
+2023-02-17 14:13:27 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "格林美-0.12820512820512547
+2023-02-17 14:13:27 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:27 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000725 HTTP/1.1" 200 175
+2023-02-17 14:13:27 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "京东方Ａ0.0
+2023-02-17 14:13:27 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:27 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 164
+2023-02-17 14:13:27 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "古越龙山0.0
+2023-02-17 14:13:27 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:27 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 158
+2023-02-17 14:13:28 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "农心科技0.0
+2023-02-17 14:13:28 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:28 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 158
+2023-02-17 14:13:28 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "农心科技0.0
+2023-02-17 14:13:32 - root - INFO      - MoniQQCall.v4.0.code.py : 434 line - timenow
+2023-02-17 14:13:32 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:32 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000812 HTTP/1.1" 200 172
+2023-02-17 14:13:32 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "陕西金叶-0.15455950540957938
+2023-02-17 14:13:32 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:32 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 165
+2023-02-17 14:13:32 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "古越龙山0.09165902841429685
+2023-02-17 14:13:32 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:32 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz002340 HTTP/1.1" 200 166
+2023-02-17 14:13:32 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "格林美0.0
+2023-02-17 14:13:32 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:32 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz000725 HTTP/1.1" 200 174
+2023-02-17 14:13:32 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "京东方Ａ0.0
+2023-02-17 14:13:32 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:32 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sh600059 HTTP/1.1" 200 165
+2023-02-17 14:13:32 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "古越龙山-0.09165902841429685
+2023-02-17 14:13:32 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:32 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 161
+2023-02-17 14:13:32 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "农心科技0.0851063829787216
+2023-02-17 14:13:33 - urllib3.connectionpool - DEBUG     - connectionpool.py : 228 line - Starting new HTTP connection (1): hq.sinajs.cn:80
+2023-02-17 14:13:33 - urllib3.connectionpool - DEBUG     - connectionpool.py : 456 line - http://hq.sinajs.cn:80 "GET /list=sz001231 HTTP/1.1" 200 161
+2023-02-17 14:13:33 - root - INFO      - MoniQQCall.v4.0.code.py : 462 line - "农心科技0.0
